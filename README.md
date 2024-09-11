@@ -1,7 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
 ![logo](https://raw.githubusercontent.com/RaS-Png/RaS-Png/main/test.jpg)
 # 🗿 Aditmyo #
- `Illustrator/Programmer/Designer` 
+ `Newbie Front End Developer` `Re : Zero Fan` `Anime Illustrator` `Experienced Designer`
 
 <div>
 
