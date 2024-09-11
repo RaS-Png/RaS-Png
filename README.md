@@ -13,9 +13,9 @@
 # Main Skills #
 
 
-<a href="https://developer.android.com/reference"><img src="https://skillicons.dev/icons?i=html" alt="android" height="110" title="Android reference"></a>
-<a href="https://https://ios.cfw.guide/"><img src="https://skillicons.dev/icons?i=css" alt="ios" height="110" title="iOS reference"></a>
-<a href="https://reactnative.dev/docs/getting-started"><img src="https://skillicons.dev/icons?i=js" alt="react-native" height="110" title="React-Native documentation"></a>
+<a href="https://developer.android.com/reference"><img src="https://skillicons.dev/icons?i=html" alt="android" height="100" title="Android reference"></a>
+<a href="https://https://ios.cfw.guide/"><img src="https://skillicons.dev/icons?i=css" alt="ios" height="100" title="iOS reference"></a>
+<a href="https://reactnative.dev/docs/getting-started"><img src="https://skillicons.dev/icons?i=js" alt="react-native" height="100" title="React-Native documentation"></a>
 <a href="https://kotlinlang.org/docs/home.html"><img src="https://skillicons.dev/icons?i=robloxstudio" alt="kotlin" height="100" title="Kotlin documentation"></a>
 
 
