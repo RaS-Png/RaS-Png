@@ -5,10 +5,7 @@
 <div>
 
 
-- 🔭 **Front End Developer Newbie** with over 1 year of experience in designing cool and intuitive UI/UX and website interfaces.<br/>
-- 🌱 **Creative Illustrator** with more than 2 years of experience in drawing anime, animation, and manga that truly stand out.<br/>
-- 🚀 **AI Enthusiast** skilled in using AI prompts to streamline workflows and produce impressive results.<br/>
-- 🎨 **Experienced Designer** proficient in design tools like  Figma, Canva, dan Clip Studio Paint.<br/>
+With over 1 year of experience as a Junior Front End Developer, I have honed my skills in designing cool UI/UX and user-friendly website interfaces. I combine this expertise with my experience as a Creative Illustrator, where I have spent more than 2 years creating eye-catching anime, animation, and manga. My passion for AI further enriches my skills, making me proficient in using AI prompts to accelerate workflows and produce outstanding results. All these experiences and skills are supported by my use of design tools like Figma, Canva, and Clip Studio Paint, allowing me to create truly impressive works!
 
 </div>
 
