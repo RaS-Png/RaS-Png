@@ -2,11 +2,11 @@
 # Hello! こんにちは ! 👋 #
 <div>
 <br/>
-- 🔭 Full-stack developer with 6+ years of experience designing and building scalable, high-performance web and mobile applications<br/>
-- 🌱 Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP<br/>
-- 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
-- 😍 Developed some AI Apps and integrated with web and ChatGPT.
-- 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
+
+- 🔭 **Front End Developer Newbie** with over 1 year of experience in designing cool and intuitive UI/UX and website interfaces.<br/>
+- 🌱 **Creative Illustrator** with more than 2 years of experience in drawing anime, animation, and manga that truly stand out.<br/>
+- 🚀 **AI Enthusiast** skilled in using AI prompts to streamline workflows and produce impressive results.<br/>
+- 🎨 **Experienced Designer** proficient in design tools like  Figma, Canva, dan Clip Studio Paint.<br/>
 
 </div>
 
