@@ -1,5 +1,6 @@
 <!--suppress HtmlDeprecatedAttribute -->
-# こんにちは ! Konnichiwa 👋 #
+# 🗿 Aditmyo
+** `Illustrator/Programmer/Designer` **
 <div>
 <br/>
 
