@@ -3,7 +3,7 @@
  `Illustrator/Programmer/Designer` 
 
 <div>
-<br/>
+
 
 - 🔭 **Front End Developer Newbie** with over 1 year of experience in designing cool and intuitive UI/UX and website interfaces.<br/>
 - 🌱 **Creative Illustrator** with more than 2 years of experience in drawing anime, animation, and manga that truly stand out.<br/>
