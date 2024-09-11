@@ -158,6 +158,6 @@
 
 # Reach out to me #
 <a href="mailto:radietsagitaris@gmail.com"><img src="./assets/gmail.svg" alt="Gmail" height="50" title="Send mail"></a>
-<a href="https://t.me/princegoblintech"><img src="./assets/whatsapp.svg" alt="Whatsapp" height="50" title="Send message"></a>
-<a href="https://www.instagram.com/adit.sketch?igsh=MWhrMmk4NGNxN2s2Zg=="><img src="./assets/insta.svg" alt="insta" height="50" title="Instagram profile"></a>
-<a href="https://x.com/aditmyo"><img src="./assets/twit.svg" alt="Twitter" height="50" title="Twitter profile"></a>
+<a href="https://t.me/princegoblintech"><img src="./assets/whatsapp.svg" alt="Whatsapp" height="55" title="Send message"></a>
+<a href="https://www.instagram.com/adit.sketch?igsh=MWhrMmk4NGNxN2s2Zg=="><img src="./assets/insta.svg" alt="insta" height="60" title="Instagram profile"></a>
+<a href="https://x.com/aditmyo"><img src="./assets/twit.svg" alt="Twitter" height="45" title="Twitter profile"></a>
