@@ -13,9 +13,9 @@
 # Main Skills #
 
 
-<a href="https://developer.android.com/reference"><img src="./assets/html.svg" alt="android" height="90" title="Android reference"></a>
-<a href="https://https://ios.cfw.guide/"><img src="./assets/css.svg" alt="ios" height="90" title="iOS reference"></a>
-<a href="https://reactnative.dev/docs/getting-started"><img src="./assets/js.svg" alt="react-native" height="90" title="React-Native documentation"></a>
+<a href="https://developer.android.com/reference"><img src="./assets/html.svg" alt="android" height="100" title="Android reference"></a>
+<a href="https://https://ios.cfw.guide/"><img src="./assets/css.svg" alt="ios" height="100" title="iOS reference"></a>
+<a href="https://reactnative.dev/docs/getting-started"><img src="./assets/js.svg" alt="react-native" height="100" title="React-Native documentation"></a>
 <a href="https://kotlinlang.org/docs/home.html"><img src="./assets/kotlin-original.svg" alt="kotlin" height="100" title="Kotlin documentation"></a>
 <a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="./assets/react.svg" alt="react" height="100" title="React documentation"></a>
 <a href="https://vuejs.org/guide/introduction.html"><img src="./assets/vue.svg" alt="vue" height="100" title="Vue documentation"></a>
