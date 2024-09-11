@@ -87,8 +87,8 @@
   </tr>
   <tr>
   <td align="center" width="96">
-        <img src="./assets/pinterest.png" alt="icon" width="65" height="65" />
-      <br>Django
+        <img src="./assets/pinterest.png" alt="icon" width="48" height="48" />
+      <br>Pinterest
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
@@ -98,8 +98,8 @@
       <br>Git
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
+        <img src="./assets/csp.png" width="48" height="48" alt="Laravel" />
+      <br>Clip Studio
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
