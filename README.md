@@ -19,7 +19,7 @@
 <a href="https://kotlinlang.org/docs/home.html"><img src="https://skillicons.dev/icons?i=figma" alt="kotlin" height="100" title="Kotlin documentation"></a>
 <a href="https://kotlinlang.org/docs/home.html"><img src="https://skillicons.dev/icons?i=bootstrap" alt="kotlin" height="100" title="Kotlin documentation"></a>
 
-# Currenly Learning #
+# Currently Learning #
 
 
 <a href="https://developer.android.com/reference"><img src="https://skillicons.dev/icons?i=js" alt="android" height="100" title="Android reference"></a>
