@@ -10,14 +10,14 @@
 
 </div>
 
-# Main Skills #
+# 𝙈𝙖𝙞𝙣 𝙎𝙠𝙞𝙡𝙡𝙨 #
 
 
-<a href="https://developer.android.com/reference"><img src="https://skillicons.dev/icons?i=html" alt="android" height="100" title="Android reference"></a>
-<a href="https://https://ios.cfw.guide/"><img src="https://skillicons.dev/icons?i=css" alt="ios" height="100" title="iOS reference"></a>
-<a href="https://reactnative.dev/docs/getting-started"><img src="https://skillicons.dev/icons?i=js" alt="react-native" height="100" title="React-Native documentation"></a>
-<a href="https://kotlinlang.org/docs/home.html"><img src="https://skillicons.dev/icons?i=figma" alt="kotlin" height="100" title="Kotlin documentation"></a>
-<a href="https://kotlinlang.org/docs/home.html"><img src="https://skillicons.dev/icons?i=bootstrap" alt="kotlin" height="100" title="Kotlin documentation"></a>
+<a href="https://www.w3schools.com/html/"><img src="https://skillicons.dev/icons?i=html" alt="html" height="100" title="HTML5 documentaion"></a>
+<a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" alt="css" height="100" title="CSS documentation"></a>
+<a href="https://www.w3schools.com/js/"><img src="https://skillicons.dev/icons?i=js" alt="js" height="100" title="JS documentation"></a>
+<a href="https://www.digidop.fr/en/figma/documentation"><img src="https://skillicons.dev/icons?i=figma" alt="figma" height="100" title="Kotlin documentation"></a>
+<a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/"><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" height="100" title="Bootstrap documentation"></a>
 
 # Currently Learning #
 
