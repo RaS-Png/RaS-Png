@@ -29,6 +29,7 @@
 <a href="https://kotlinlang.org/docs/home.html"><img src="https://skillicons.dev/icons?i=php" alt="kotlin" height="100" title="Kotlin documentation"></a>
 <a href="https://kotlinlang.org/docs/home.html"><img src="https://skillicons.dev/icons?i=tailwind" alt="kotlin" height="100" title="Kotlin documentation"></a>
 <a href="https://kotlinlang.org/docs/home.html"><img src="https://skillicons.dev/icons?i=mysql" alt="kotlin" height="100" title="Kotlin documentation"></a>
+<a href="https://kotlinlang.org/docs/home.html"><img src="https://skillicons.dev/icons?i=robloxstudio" alt="kotlin" height="100" title="Kotlin documentation"></a>
 
 # Future Plans #
 
