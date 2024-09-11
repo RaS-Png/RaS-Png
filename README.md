@@ -1,7 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
 # 🗿 Aditmyo #
  `Illustrator/Programmer/Designer` 
- <br/>
+
 <div>
 <br/>
 
