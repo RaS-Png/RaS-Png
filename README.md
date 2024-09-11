@@ -18,7 +18,7 @@
 <a href="https://reactnative.dev/docs/getting-started"><img src="https://skillicons.dev/icons?i=js" alt="react-native" height="100" title="React-Native documentation"></a>
 <a href="https://kotlinlang.org/docs/home.html"><img src="https://skillicons.dev/icons?i=robloxstudio" alt="kotlin" height="100" title="Kotlin documentation"></a>
 
-# Still Learning#
+# Still Learning #
 
 
 <a href="https://developer.android.com/reference"><img src="https://skillicons.dev/icons?i=js" alt="android" height="100" title="Android reference"></a>
