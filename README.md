@@ -106,8 +106,8 @@
       <br>R Studio
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
+        <img src="./assets/canva.png" width="48" height="48" alt="canva" />
+      <br>Canva
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
