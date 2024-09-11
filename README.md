@@ -1,10 +1,11 @@
 <!--suppress HtmlDeprecatedAttribute -->
 ![logo](https://raw.githubusercontent.com/RaS-Png/RaS-Png/main/test.jpg)
 # 🗿 Aditmyo #
-<span style="color: blue;">`Newbie Front End Developer`</span> 
-<span style="color: green;">`Re : Zero Fan`</span> 
-<span style="color: red;">`Anime Illustrator`</span> 
-<span style="color: orange;">`Experienced Designer`</span>
+`Newbie Front End Developer`
+`Re : Zero Fan`
+<br/>
+`Anime Illustrator`
+`Experienced Designer`
 
 <div>
 
