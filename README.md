@@ -87,7 +87,7 @@
   </tr>
   <tr>
   <td align="center" width="96">
-        <img src="./assets/pinterest2.png" alt="pinterest width="83" height="75" />
+        <img src="./assets/pinterest2.png" alt="pinterest width="90" height="75" />
       <br>Pinterest
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=github" alt="icon" width="48" height="48" />
