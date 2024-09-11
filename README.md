@@ -17,7 +17,7 @@
 <a href="https://https://ios.cfw.guide/"><img src="https://skillicons.dev/icons?i=css" alt="ios" height="100" title="iOS reference"></a>
 <a href="https://reactnative.dev/docs/getting-started"><img src="https://skillicons.dev/icons?i=js" alt="react-native" height="100" title="React-Native documentation"></a>
 <a href="https://kotlinlang.org/docs/home.html"><img src="https://skillicons.dev/icons?i=figma" alt="kotlin" height="100" title="Kotlin documentation"></a>
-<a href="https://kotlinlang.org/docs/home.html"><img src="https://skillicons.dev/icons?i=boostrap" alt="kotlin" height="100" title="Kotlin documentation"></a>
+<a href="https://kotlinlang.org/docs/home.html"><img src="https://skillicons.dev/icons?i=bootsrap" alt="kotlin" height="100" title="Kotlin documentation"></a>
 
 # Still Learning #
 
