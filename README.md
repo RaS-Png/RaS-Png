@@ -1,5 +1,5 @@
 <!--suppress HtmlDeprecatedAttribute -->
-![logo](https://raw.githubusercontent.com/RaS-Png/RaS-Png/main/test.jpg)
+![logo](https://raw.githubusercontent.com/RaS-Png/RaS-Png/main/tukuna.gif)
 # 🗿 Aditmyo #
  `Illustrator/Programmer/Designer` 
 
