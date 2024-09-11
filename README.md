@@ -98,7 +98,7 @@
       <br>Git
     </td>
     <td align="center"  width="96">
-        <img src="./assets/csp.png" width="50" height="50" alt="CSP" />
+        <img src="./assets/csp.png" width="58" height="58" alt="CSP" />
       <br>Clip Studio
     </td>
     <td align="center"  width="96">
