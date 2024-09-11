@@ -90,7 +90,7 @@
         <img src="./assets/pinterest.png" alt="icon" width="48" height="48" />
       <br>Pinterest
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=github" alt="icon" width="48" height="48" />
       <br>Github
     </td>
     <td align="center" width="96"> 
