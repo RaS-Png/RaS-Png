@@ -34,7 +34,7 @@
 
 <a href="https://developer.android.com/reference"><img src="https://skillicons.dev/icons?i=vue" alt="android" height="100" title="Android reference"></a>
 <a href="https://https://ios.cfw.guide/"><img src="https://skillicons.dev/icons?i=angular" alt="ios" height="100" title="iOS reference"></a>
-<a href="https://reactnative.dev/docs/getting-started"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react-native" height="100" title="React-Native documentation"></a>
+<a href="https://reactnative.dev/docs/getting-started"><img src="hhttps://skillicons.dev/icons?i=jquery" alt="react-native" height="100" title="React-Native documentation"></a>
 <a href="https://kotlinlang.org/docs/home.html"><img src="https://skillicons.dev/icons?i=laravel" alt="kotlin" height="100" title="Kotlin documentation"></a>
 <a href="https://kotlinlang.org/docs/home.html"><img src="https://skillicons.dev/icons?i=php" alt="kotlin" height="100" title="Kotlin documentation"></a>
 <a href="https://kotlinlang.org/docs/home.html"><img src="https://skillicons.dev/icons?i=tailwind" alt="kotlin" height="100" title="Kotlin documentation"></a>
