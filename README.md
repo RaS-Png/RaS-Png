@@ -60,11 +60,11 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="48" height="48" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="48" height="48" />
       <br>VS Code
     </td>
     <td align="center" width="96">
@@ -72,11 +72,11 @@
       <br>Laravel
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="48" height="48" />
       <br>MySql
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" width="48" height="48" />
       <br>tailwind
     </td>
     <td align="center" width="96">
