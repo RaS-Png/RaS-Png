@@ -106,7 +106,7 @@
       <br>R Studio
     </td>
     <td align="center" width="96">
-        <img src="./assets/canva2.png" width="48" height="48" alt="canva" />
+        <img src="./assets/canva2.png" width="50" height="48" alt="canva" />
       <br>Canva
     </td>
     <td align="center"  width="96">
