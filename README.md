@@ -47,29 +47,29 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" alt="icon" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=html" alt="html" width="48" height="48" />
       <br>HTML5
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=css" alt="icon" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=css" alt="css" width="48" height="48" />
       </a>
       <br>CSS3
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" alt="icon" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=js" alt="js" width="48" height="48" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="48" height="48" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="48" height="48" />
       <br>VS Code
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" alt="icon" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="48" height="48" />
       <br>Laravel
     </td>
     <td align="center" width="96">
@@ -77,24 +77,24 @@
       <br>MySql
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="48" height="48" />
       <br>tailwind
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="48" height="48" />
       <br>Figma
     </td>
   </tr>
   <tr>
   <td align="center" width="96">
-        <img src="./assets/pinterest.png" alt="icon" width="48" height="48" />
+        <img src="./assets/pinterest.png" alt="pinterest width="48" height="48" />
       <br>Pinterest
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=github" alt="icon" width="48" height="48" />
       <br>Github
     </td>
     <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
     <td align="center"  width="96">
