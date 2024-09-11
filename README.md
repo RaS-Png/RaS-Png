@@ -25,6 +25,7 @@
 <a href="https://https://ios.cfw.guide/"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="ios" height="100" title="iOS reference"></a>
 <a href="https://reactnative.dev/docs/getting-started"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react-native" height="100" title="React-Native documentation"></a>
 <a href="https://kotlinlang.org/docs/home.html"><img src="https://skillicons.dev/icons?i=laravel" alt="kotlin" height="100" title="Kotlin documentation"></a>
+<a href="https://kotlinlang.org/docs/home.html"><img src="https://skillicons.dev/icons?i=php" alt="kotlin" height="100" title="Kotlin documentation"></a>
 
 
 # 💻 My favorite tools and technologies
