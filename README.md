@@ -14,7 +14,7 @@ My name is Raditya Anugrah Sagitaris! You can call me Adit, Adid, Radit, Anugrah
 
 </div>
 
-# 💯 𝙈𝙖𝙞𝙣 𝙎𝙠𝙞𝙡𝙡𝙨 #
+# ☕ 𝙈𝙖𝙞𝙣 𝙎𝙠𝙞𝙡𝙡𝙨 #
 
 
 <a href="https://www.w3schools.com/html/"><img src="https://skillicons.dev/icons?i=html" alt="html" height="100" title="HTML5 documentaion"></a>
@@ -23,7 +23,7 @@ My name is Raditya Anugrah Sagitaris! You can call me Adit, Adid, Radit, Anugrah
 <a href="https://www.digidop.fr/en/figma/documentation"><img src="https://skillicons.dev/icons?i=figma" alt="figma" height="100" title="Figma documentation"></a>
 <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/"><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" height="100" title="Bootstrap documentation"></a>
 
-# 📖 𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜 #
+# 📔 𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜 #
 
 
 <a href="https://developer.android.com/reference"><img src="https://skillicons.dev/icons?i=js" alt="android" height="100" title="Android reference"></a>
@@ -35,7 +35,7 @@ My name is Raditya Anugrah Sagitaris! You can call me Adit, Adid, Radit, Anugrah
 <a href="https://kotlinlang.org/docs/home.html"><img src="https://skillicons.dev/icons?i=mysql" alt="kotlin" height="100" title="Kotlin documentation"></a>
 <a href="https://kotlinlang.org/docs/home.html"><img src="https://skillicons.dev/icons?i=robloxstudio" alt="kotlin" height="100" title="Kotlin documentation"></a>
 
-# 📚 𝙁𝙪𝙩𝙪𝙧𝙚 𝙥𝙡𝙖𝙣𝙨 #
+# 📋 𝙁𝙪𝙩𝙪𝙧𝙚 𝙥𝙡𝙖𝙣𝙨 #
 
 
 <a href="https://developer.android.com/reference"><img src="https://skillicons.dev/icons?i=vue" alt="android" height="100" title="Android reference"></a>
