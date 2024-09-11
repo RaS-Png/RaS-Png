@@ -16,7 +16,7 @@
 <a href="https://www.w3schools.com/html/"><img src="https://skillicons.dev/icons?i=html" alt="html" height="100" title="HTML5 documentaion"></a>
 <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" alt="css" height="100" title="CSS documentation"></a>
 <a href="https://www.w3schools.com/js/"><img src="https://skillicons.dev/icons?i=js" alt="js" height="100" title="JS documentation"></a>
-<a href="https://www.digidop.fr/en/figma/documentation"><img src="https://skillicons.dev/icons?i=figma" alt="figma" height="100" title="Kotlin documentation"></a>
+<a href="https://www.digidop.fr/en/figma/documentation"><img src="https://skillicons.dev/icons?i=figma" alt="figma" height="100" title="Figma documentation"></a>
 <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/"><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" height="100" title="Bootstrap documentation"></a>
 
 # 📖 𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜 #
