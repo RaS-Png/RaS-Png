@@ -103,7 +103,7 @@
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=robloxstudio" width="48" height="48" alt="robloxstudio" />
-      <br>Roblox Studio
+      <br>R Studio
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
