@@ -152,9 +152,9 @@
 
 </div>
 
-
+<center>
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
-
+</center>
 
 # Reach out to me #
 <a href="mailto:radietsagitaris@gmail.com"><img src="./assets/gmail.svg" alt="Gmail" height="50" title="Send mail"></a>
