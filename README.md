@@ -60,28 +60,28 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="65" height="65" />
+      <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-      <br>Webpack
+        <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="65" height="65" />
+      <br>VS Code
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
+        <img src="https://skillicons.dev/icons?i=laravel" alt="icon" width="65" height="65" />
+      <br>Laravel
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
+        <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="65" height="65" />
+      <br>MySql
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" width="65" height="65" />
+      <br>tailwind
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
+        <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="65" height="65" />
+      <br>Figma
     </td>
   </tr>
   <tr>
