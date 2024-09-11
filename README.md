@@ -1,5 +1,5 @@
 <!--suppress HtmlDeprecatedAttribute -->
-# Hello! 👋 Who am I? #
+# Hello! 👋 こんにちは #
 <div>
 <br/>
 - 🔭 Full-stack developer with 6+ years of experience designing and building scalable, high-performance web and mobile applications<br/>
