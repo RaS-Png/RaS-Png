@@ -1,6 +1,6 @@
 <!--suppress HtmlDeprecatedAttribute -->
 # 🗿 Aditmyo
-** `Illustrator/Programmer/Designer` **
+Illustrator/Programmer/Designer` #
 <div>
 <br/>
 
