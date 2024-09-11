@@ -43,6 +43,7 @@
 <a href="https://kotlinlang.org/docs/home.html"><img src="https://skillicons.dev/icons?i=nestjs" alt="kotlin" height="100" title="Kotlin documentation"></a>
 <a href="https://kotlinlang.org/docs/home.html"><img src="https://skillicons.dev/icons?i=nextjs" alt="kotlin" height="100" title="Kotlin documentation"></a>
 <a href="https://kotlinlang.org/docs/home.html"><img src="https://skillicons.dev/icons?i=java" alt="kotlin" height="100" title="Kotlin documentation"></a>
+<a href="https://kotlinlang.org/docs/home.html"><img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" height="100" title="Kotlin documentation"></a>
 
 
 # 💻 My favorite tools and technologies
