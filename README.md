@@ -136,7 +136,7 @@ My name is Raditya Anugrah Sagitaris! You can call me Adit, Adid, Radit, Anugrah
 
 
 # Reach out to me #
-<a href="mailto:radietsagitaris@gmail.com"><img src="./assets/gmail.svg" alt="Gmail" height="50" title="Send mail"></a>
-<a href="https://t.me/princegoblintech"><img src="./assets/whatsapp.svg" alt="Whatsapp" height="55" title="Send message"></a>
-<a href="https://www.instagram.com/adit.sketch?igsh=MWhrMmk4NGNxN2s2Zg=="><img src="./assets/insta.svg" alt="insta" height="60" title="Instagram profile"></a>
-<a href="https://x.com/aditmyo"><img src="./assets/twit.svg" alt="Twitter" height="45" title="Twitter profile"></a>
+<a href="mailto:radietsagitaris@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="50" title="Send mail"></a>
+<a href="https://t.me/princegoblintech"><img src="https://skillicons.dev/icons?i=instagram" alt="Whatsapp" height="55" title="Send message"></a>
+<a href="https://www.instagram.com/adit.sketch?igsh=MWhrMmk4NGNxN2s2Zg=="><img src="https://skillicons.dev/icons?i=twitter" alt="insta" height="60" title="Instagram profile"></a>
+<a href="https://x.com/aditmyo"><img src="https://skillicons.dev/icons?i=robloxstudio" alt="Twitter" height="45" title="Twitter profile"></a>
