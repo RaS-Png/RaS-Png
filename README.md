@@ -9,7 +9,7 @@
 
 <div>
 
- [logo](https://large-type.com/#%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%20!)
+<img src="https://large-type.com/#%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%20!" alt="html" height="100" title="HTML5 documentaion">
 My name is Raditya Anugrah Sagitaris! You can call me Adit, Adid, Radit, Anugrah, Sagitaris, or whatever you like. With over 1 year of experience as a Junior Front End Developer, I’ve honed my skills in designing cool and user-friendly UI/UX interfaces. I combine this expertise with my experience as a Creative Illustrator, where I’ve spent more than 2 years creating captivating anime, animations, and manga. My passion for AI further enriches my skills, making me proficient in using AI prompts to accelerate workflows and produce outstanding results. All these experiences and skills are supported by my use of design tools like Figma, Canva, and Clip Studio Paint, allowing me to create truly impressive works!
 
 </div>
