@@ -1,6 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
-![logo](https://raw.githubusercontent.com/RaS-Png/RaS-Png/main/tori2.png)
+<img src="https://raw.githubusercontent.com/RaS-Png/RaS-Png/main/tori2.png" alt="html" height="100" title="HTML5 documentaion">
 # 🍞 Aditmyo! #
+
 `Newbie Front End Developer`
 `Re : Zero Fan`
 <br/>
