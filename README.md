@@ -1,6 +1,6 @@
 <!--suppress HtmlDeprecatedAttribute -->
 ![logo](https://raw.githubusercontent.com/RaS-Png/RaS-Png/main/test.jpg)
-# 🗿 Aditmyo #
+# 🍞 Aditmyo #
 `Newbie Front End Developer`
 `Re : Zero Fan`
 <br/>
@@ -48,7 +48,7 @@ My name is Raditya Anugrah Sagitaris! You can call me Adit, Adid, Radit, Anugrah
 <a href="https://kotlinlang.org/docs/home.html"><img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" height="100" title="Kotlin documentation"></a>
 
 
-# 💻 My favorite tools and technologies
+# 🤍 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
