@@ -18,7 +18,7 @@ My name is Raditya Anugrah Sagitaris! You can call me Adit, Adid, Radit, Anugrah
 
 </div>
 
-# ☕ 𝙈𝙖𝙞𝙣 𝙎𝙠𝙞𝙡𝙡𝙨 #
+# ☕ 𝙼𝚊𝚒𝚗 𝚂𝚔𝚒𝚕𝚕𝚜 #
 
 
 <a href="https://www.w3schools.com/html/"><img src="https://skillicons.dev/icons?i=html" alt="html" height="100" title="HTML5 documentaion"></a>
