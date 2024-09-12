@@ -1,5 +1,5 @@
 <!--suppress HtmlDeprecatedAttribute -->
-![logo](https://raw.githubusercontent.com/RaS-Png/RaS-Png/main/tori.png)
+![logo](https://raw.githubusercontent.com/RaS-Png/RaS-Png/main/tori2.png)
 # 🍞 Aditmyo! #
 `Newbie Front End Developer`
 `Re : Zero Fan`
