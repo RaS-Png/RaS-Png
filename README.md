@@ -1,5 +1,5 @@
 <!--suppress HtmlDeprecatedAttribute -->
-<img src="https://raw.githubusercontent.com/RaS-Png/RaS-Png/main/tori2.png" alt="html" height="400" width="1000" title="HTML5 documentaion">
+<img src="https://raw.githubusercontent.com/RaS-Png/RaS-Png/main/tori2.png" alt="html" height="500" width="1000" title="HTML5 documentaion">
 # 🍞 Aditmyo! #
 
 `Newbie Front End Developer`
