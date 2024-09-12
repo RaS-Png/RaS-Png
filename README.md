@@ -4,10 +4,12 @@
 # 🍞 Aditmyo! #
 
 `Newbie Front End Developer`
-`Re : Zero Fan`
+`Re : Zero Lover`
+`A fan of Japanese Culture`
 <br/>
 `Anime Illustrator`
 `Experienced Designer`
+`Road to Japan`
 
 <div>
 
