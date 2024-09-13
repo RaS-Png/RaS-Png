@@ -130,6 +130,7 @@ My name is Raditya Anugrah Sagitaris! You can call me Adit, Adid, Radit, Anugrah
 
 # Recent Project #
 
+` Netflix Login `
 [![Watch the video](./assets/netthumb.png)](https://youtu.be/pLNLvy7Ff1s?si=H2Cmvmva8kT_XddT)
 
 
