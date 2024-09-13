@@ -174,7 +174,7 @@ Here are some of the projects I've worked on! From graphic design and web develo
 
 # 🎨 Artworks #
 
-> Click The Thumbnail To Open My Instagram Account!
+> Click The Thumbnail To See More Artworks i Made!
 
 [![Watch the video](./assets/artworks.jpeg)](https://www.instagram.com/adit.sketch?igsh=MWhrMmk4NGNxN2s2Zg==)
 
