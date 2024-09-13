@@ -128,10 +128,7 @@ My name is Raditya Anugrah Sagitaris! You can call me Adit, Adid, Radit, Anugrah
 </table>
 <br>
 
-
-░█▀▀█ ░█▀▀▀ ░█▀▀█ ░█▀▀▀ ░█▄─░█ ▀▀█▀▀ 　 ░█▀▀█ ░█▀▀█ ░█▀▀▀█ ───░█ ░█▀▀▀ ░█▀▀█ ▀▀█▀▀ 
-░█▄▄▀ ░█▀▀▀ ░█─── ░█▀▀▀ ░█░█░█ ─░█── 　 ░█▄▄█ ░█▄▄▀ ░█──░█ ─▄─░█ ░█▀▀▀ ░█─── ─░█── 
-░█─░█ ░█▄▄▄ ░█▄▄█ ░█▄▄▄ ░█──▀█ ─░█── 　 ░█─── ░█─░█ ░█▄▄▄█ ░█▄▄█ ░█▄▄▄ ░█▄▄█ ─░█──
+### Recents Projects ###
 
 # Netflix Login Interface #
 
