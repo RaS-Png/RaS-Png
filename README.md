@@ -130,7 +130,7 @@ My name is Raditya Anugrah Sagitaris! You can call me Adit, Adid, Radit, Anugrah
 
 # Recent Project #
 
-<img src="./assets/netflixlogin.mp4" alt="html" height="500" width="1000" title="PLS GUA PENGEN KE JEPANG AAAAAAAA">
+<img src="./assets/netlflixlogin.mp4" alt="html" height="500" width="1000" title="PLS GUA PENGEN KE JEPANG AAAAAAAA">
 
 
 
