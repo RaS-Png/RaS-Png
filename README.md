@@ -167,6 +167,10 @@ Here are some of the projects I've worked on! From graphic design and web develo
 
 </div>
 
+# 📰 Artworks #
+
+[![Watch the video](./assets/artworks.jpeg)](https://telegra.ph/Aditmyo--Posters-09-13)
+
 </div>
 
 
