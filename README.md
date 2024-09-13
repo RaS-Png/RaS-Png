@@ -21,7 +21,7 @@ My name is Raditya Anugrah Sagitaris! You can call me Adit, Adid, Radit, Anugrah
 # ☕ 𝘔𝘢𝘪𝘯 𝘚𝘬𝘪𝘭𝘭𝘴 #
 
 
-<a href="https://www.w3schools.com/html/"><img src="https://skillicons.dev/icons?i=html" alt="html" height="100" title="HTML5 documentaion"></a>
+<a href="https://www.w3schools.com/html/"><img src="https://skillicons.dev/icons?i=html" alt="html" height="100" title="HTML5 documentation"></a>
 <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" alt="css" height="100" title="CSS documentation"></a>
 <a href="https://www.w3schools.com/js/"><img src="https://skillicons.dev/icons?i=js" alt="js" height="100" title="JS documentation"></a>
 <a href="https://www.digidop.fr/en/figma/documentation"><img src="https://skillicons.dev/icons?i=figma" alt="figma" height="100" title="Figma documentation"></a>
@@ -30,25 +30,25 @@ My name is Raditya Anugrah Sagitaris! You can call me Adit, Adid, Radit, Anugrah
 # 📔 𝘊𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 #
 
 
-<a href="https://developer.android.com/reference"><img src="https://skillicons.dev/icons?i=js" alt="android" height="100" title="Android reference"></a>
-<a href="https://https://ios.cfw.guide/"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="ios" height="100" title="iOS reference"></a>
-<a href="https://reactnative.dev/docs/getting-started"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react-native" height="100" title="React-Native documentation"></a>
-<a href="https://kotlinlang.org/docs/home.html"><img src="https://skillicons.dev/icons?i=laravel" alt="kotlin" height="100" title="Kotlin documentation"></a>
-<a href="https://kotlinlang.org/docs/home.html"><img src="https://skillicons.dev/icons?i=php" alt="kotlin" height="100" title="Kotlin documentation"></a>
-<a href="https://kotlinlang.org/docs/home.html"><img src="https://skillicons.dev/icons?i=tailwind" alt="kotlin" height="100" title="Kotlin documentation"></a>
-<a href="https://kotlinlang.org/docs/home.html"><img src="https://skillicons.dev/icons?i=mysql" alt="kotlin" height="100" title="Kotlin documentation"></a>
-<a href="https://kotlinlang.org/docs/home.html"><img src="https://skillicons.dev/icons?i=robloxstudio" alt="kotlin" height="100" title="Kotlin documentation"></a>
+<a href="https://www.w3schools.com/js/"><img src="https://skillicons.dev/icons?i=js" alt="js" height="100" title="JS documentation"></a>
+<a href="https://docs.python.org/3/"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" height="100" title="Python documentation"></a>
+<a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" height="100" title="React documentation"></a>
+<a href="https://laravel.com/docs/11.x/readme"><img src="https://skillicons.dev/icons?i=laravel" alt="laravel" height="100" title="Laravel documentation"></a>
+<a href="https://www.php.net/manual/en/index.php"><img src="https://skillicons.dev/icons?i=php" alt="php" height="100" title="Php documentation"></a>
+<a href="https://v2.tailwindcss.com/docs"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" height="100" title="Tailwind documentation"></a>
+<a href="https://dev.mysql.com/doc/l"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" height="100" title="Mysql documentation"></a>
+<a href="https://create.roblox.com/docsl"><img src="https://skillicons.dev/icons?i=robloxstudio" alt="robloxstudio" height="100" title="Roblox Studio documentation"></a>
 
 # 📋 𝘍𝘶𝘵𝘶𝘳𝘦 𝘗𝘭𝘢𝘯𝘴 #
 
 
-<a href="https://developer.android.com/reference"><img src="https://skillicons.dev/icons?i=vue" alt="android" height="100" title="Android reference"></a>
-<a href="https://https://ios.cfw.guide/"><img src="https://skillicons.dev/icons?i=angular" alt="ios" height="100" title="iOS reference"></a>
-<a href="https://reactnative.dev/docs/getting-started"><img src="https://skillicons.dev/icons?i=jquery" alt="react-native" height="100" title="React-Native documentation"></a>
-<a href="https://kotlinlang.org/docs/home.html"><img src="https://skillicons.dev/icons?i=nodejs" alt="kotlin" height="100" title="Kotlin documentation"></a>
-<a href="https://kotlinlang.org/docs/home.html"><img src="https://skillicons.dev/icons?i=nestjs" alt="kotlin" height="100" title="Kotlin documentation"></a>
-<a href="https://kotlinlang.org/docs/home.html"><img src="https://skillicons.dev/icons?i=nextjs" alt="kotlin" height="100" title="Kotlin documentation"></a>
-<a href="https://kotlinlang.org/docs/home.html"><img src="https://skillicons.dev/icons?i=java" alt="kotlin" height="100" title="Kotlin documentation"></a>
+<a href="https://vuejs.org/guide/introduction.html"><img src="https://skillicons.dev/icons?i=vue" alt="vuejs" height="100" title="Vue documentation"></a>
+<a href="https://v17.angular.io/docs"><img src="https://skillicons.dev/icons?i=angular" alt="angularjs" height="100" title="Angular documentation"></a>
+<a href="https://api.jquery.com/"><img src="https://skillicons.dev/icons?i=jquery" alt="jquery" height="100" title="Jquery documentation"></a>
+<a href="https://nodejs.org/docs/latest/api/"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" height="100" title="Node documentation"></a>
+<a href="https://docs.nestjs.com/"><img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" height="100" title="NestJS documentation"></a>
+<a href="https://nextjs.org/docs"><img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" height="100" title="NextJS documentation"></a>
+<a href="https://www.w3schools.com/java/java_ref_reference.asp"><img src="https://skillicons.dev/icons?i=java" alt="java" height="100" title="Java reference"></a>
 <a href="https://kotlinlang.org/docs/home.html"><img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" height="100" title="Kotlin documentation"></a>
 
 
