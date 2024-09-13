@@ -167,9 +167,9 @@ Here are some of the projects I've worked on! From graphic design and web develo
 
 </div>
 
-# 📰 Artworks #
+# 🎨 Artworks #
 
-[![Watch the video](./assets/artworks.jpeg)](https://telegra.ph/Aditmyo--Posters-09-13)
+[![Watch the video](./assets/artworks.jpeg)](https://www.instagram.com/adit.sketch?igsh=MWhrMmk4NGNxN2s2Zg==)
 
 </div>
 
