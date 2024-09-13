@@ -130,7 +130,7 @@ My name is Raditya Anugrah Sagitaris! You can call me Adit, Adid, Radit, Anugrah
 
 # Recent Project #
 
-[![Watch the video](https://raw.githubusercontent.com/RaS-Png/RaS-Png/main/tori2.png)](./assets/netlflixlogin.mp4)
+[![Watch the video](https://raw.githubusercontent.com/RaS-Png/RaS-Png/main/tori2.png)](https://youtu.be/pLNLvy7Ff1s?si=H2Cmvmva8kT_XddT)
 
 
 
