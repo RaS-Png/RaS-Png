@@ -160,9 +160,11 @@ Here are some of the projects I've worked on! From graphic design and web develo
 # Posters #
 
 <div align="center"> 
+
+<img src="./assets/ditdev.png" alt="Whatsapp" height="100" title="Instagram Profile">
   
-[![Watch the video](./assets/ditdev.png)](https://shorturl.at/D3qRp)
-[![Watch the video](./assets/burger.png)](https://shorturl.at/D3qRp)
+[![Watch the video](./assets/ditdev.png)]
+[![Watch the video](./assets/burger.png)]
 
 </div>
 
