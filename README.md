@@ -143,13 +143,13 @@ Here are some of the projects I've worked on! From graphic design and web develo
   
 </div>
 
-# Netflix Login Interface #
+# 🎥 Netflix Login Interface #
 
 > Click The Thumbnail To Open Video
 
 [![Watch the video](./assets/netthumb.png)](https://youtu.be/pLNLvy7Ff1s?si=H2Cmvmva8kT_XddT)
 
-# MORSE #
+# 🎵 MORSE #
 
 > Click The Thumbnail To Open Prototype
 
