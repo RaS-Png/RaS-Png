@@ -143,6 +143,8 @@ Here are some of the projects I've worked on! From graphic design and web develo
 
 # Netflix Login Interface #
 
+> Text that is a quote
+
 [![Watch the video](./assets/netthumb.png)](https://youtu.be/pLNLvy7Ff1s?si=H2Cmvmva8kT_XddT)
 
 # MORSE #
