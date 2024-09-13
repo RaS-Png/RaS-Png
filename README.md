@@ -164,7 +164,7 @@ Here are some of the projects I've worked on! From graphic design and web develo
 
 # 📰 Posters #
 
-> Click The Thumbnail To See Detailed Version1
+> Click The Thumbnail To See Detailed Version!
 
 <div align="center"> 
 
