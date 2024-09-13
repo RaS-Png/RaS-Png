@@ -157,7 +157,14 @@ Here are some of the projects I've worked on! From graphic design and web develo
 [![Watch the video](./assets/morseslide2.png)](https://shorturl.at/D3qRp)
 [![Watch the video](./assets/morseslide3.png)](https://shorturl.at/D3qRp)
 
+# Posters #
 
+<div align="center"> 
+  
+[![Watch the video](./assets/ditdev.png)](https://shorturl.at/D3qRp)
+[![Watch the video](./assets/burger.png)](https://shorturl.at/D3qRp)
+
+</div>
 
 </div>
 
