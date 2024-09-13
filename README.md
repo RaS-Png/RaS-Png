@@ -150,13 +150,13 @@ Here are some of the projects I've worked on! From graphic design and web develo
 
 # 🎥 Netflix Login Interface #
 
-> Click The Thumbnail To Open Video
+> Click The Thumbnail To Watch the Video!
 
 [![Watch the video](./assets/netthumb.png)](https://youtu.be/pLNLvy7Ff1s?si=H2Cmvmva8kT_XddT)
 
 # 🎵 MORSE #
 
-> Click The Thumbnail To Open Prototype
+> Click The Thumbnail To Open Prototype!
 
 [![Watch the video](./assets/morseslide1.png)](https://shorturl.at/D3qRp)
 [![Watch the video](./assets/morseslide2.png)](https://shorturl.at/D3qRp)
@@ -164,7 +164,7 @@ Here are some of the projects I've worked on! From graphic design and web develo
 
 # 📰 Posters #
 
-> Click The Thumbnail To See More Detailed Version
+> Click The Thumbnail To See Detailed Version1
 
 <div align="center"> 
 
@@ -173,6 +173,8 @@ Here are some of the projects I've worked on! From graphic design and web develo
 </div>
 
 # 🎨 Artworks #
+
+> Click The Thumbnail To Open My Instagram Account!
 
 [![Watch the video](./assets/artworks.jpeg)](https://www.instagram.com/adit.sketch?igsh=MWhrMmk4NGNxN2s2Zg==)
 
