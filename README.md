@@ -159,9 +159,11 @@ Here are some of the projects I've worked on! From graphic design and web develo
 
 # Posters #
 
+> Click The Thumbnail To See More Detailed Version
+
 <div align="center"> 
 
-[![Watch the video](./assets/posters.png)](https://shorturl.at/D3qRp)
+[![Watch the video](./assets/posters.png)](https://telegra.ph/Aditmyo--Posters-09-13)
 
 </div>
 
