@@ -131,7 +131,7 @@ My name is Raditya Anugrah Sagitaris! You can call me Adit, Adid, Radit, Anugrah
 <br>
 <div align="center">
   
-# Recents Projects #
+# 🌴 Recents Projects 🌴 #
 
 </div>
 
