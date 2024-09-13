@@ -143,11 +143,13 @@ Here are some of the projects I've worked on! From graphic design and web develo
 
 # Netflix Login Interface #
 
-> Text that is a quote
+> Click The Thumbnail To Open Video
 
 [![Watch the video](./assets/netthumb.png)](https://youtu.be/pLNLvy7Ff1s?si=H2Cmvmva8kT_XddT)
 
 # MORSE #
+
+> Click The Thumbnail To Open Prototype
 
 [![Watch the video](./assets/morseslide1.png)](https://shorturl.at/D3qRp)
 [![Watch the video](./assets/morseslide2.png)](https://shorturl.at/D3qRp)
