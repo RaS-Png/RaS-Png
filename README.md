@@ -133,6 +133,12 @@ My name is Raditya Anugrah Sagitaris! You can call me Adit, Adid, Radit, Anugrah
 
 </div>
 
+<div align="center">
+
+Here are some of the projects I've worked on! From graphic design and web development to cool illustrations, each project is a blend of creativity and technical skills that make them stand out and feel innovative. Let's dive in and check them out!
+  
+</div>
+
 # Netflix Login Interface #
 
 [![Watch the video](./assets/netthumb.png)](https://youtu.be/pLNLvy7Ff1s?si=H2Cmvmva8kT_XddT)
