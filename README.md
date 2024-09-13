@@ -1,5 +1,8 @@
 <!--suppress HtmlDeprecatedAttribute -->
-<img src="https://raw.githubusercontent.com/RaS-Png/RaS-Png/main/tori2.png" alt="html" height="500" width="1000" title="PLS GUA PENGEN KE JEPANG AAAAAAAA">
+
+[![Watch the video](.https://raw.githubusercontent.com/RaS-Png/RaS-Png/main/tori2.png)](https://telegra.ph/Aditmyo--Posters-09-13)
+
+<!-- <img src="https://raw.githubusercontent.com/RaS-Png/RaS-Png/main/tori2.png" alt="html" height="500" width="1000" title="PLS GUA PENGEN KE JEPANG AAAAAAAA"> -->
 <div align="center">
 
 "𝘛𝘩𝘪𝘴 𝘸𝘰𝘳𝘭𝘥 𝘪𝘴 𝘭𝘪𝘬𝘦 𝘢 𝘣𝘭𝘢𝘯𝘬 𝘤𝘢𝘯𝘷𝘢𝘴, 𝘢𝘯𝘥 𝘐 𝘢𝘮 𝘵𝘩𝘦 𝘰𝘯𝘦 𝘸𝘩𝘰 𝘸𝘪𝘭𝘭 𝘧𝘪𝘭𝘭 𝘪𝘵."
