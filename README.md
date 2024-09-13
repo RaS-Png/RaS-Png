@@ -1,7 +1,9 @@
 <!--suppress HtmlDeprecatedAttribute -->
+<div align="center">
 
 [![Watch the video](./tori2.png)](https://telegra.ph/Aditmyo--Posters-09-13)
 
+</div>
 <!-- <img src="https://raw.githubusercontent.com/RaS-Png/RaS-Png/main/tori2.png" alt="html" height="500" width="1000" title="PLS GUA PENGEN KE JEPANG AAAAAAAA"> -->
 <div align="center">
 
