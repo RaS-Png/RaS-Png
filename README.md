@@ -180,10 +180,11 @@ Here are some of the projects I've worked on! From graphic design and web develo
 
 </div>
 
+ <div align="center">
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
- <div align="center">
+
    
 # Reach out to me #
 <a href="mailto:radietsagitaris@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="55" title="Send mail"></a>
