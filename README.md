@@ -183,9 +183,12 @@ Here are some of the projects I've worked on! From graphic design and web develo
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
-
+ <div align="center">
+   
 # Reach out to me #
 <a href="mailto:radietsagitaris@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="55" title="Send mail"></a>
 <a href="https://www.instagram.com/adit.sketch?igsh=MWhrMmk4NGNxN2s2Zg=="><img src="https://skillicons.dev/icons?i=instagram" alt="Whatsapp" height="55" title="Instagram Profile"></a>
 <a href="https://x.com/aditmyo"><img src="https://skillicons.dev/icons?i=twitter" alt="x" height="55" title="X profile"></a>
 <a href="https://x.com/aditmyo"><img src="https://skillicons.dev/icons?i=discord" alt="discord" height="55" title="Discord profile"></a>
+
+</div>
