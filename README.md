@@ -41,7 +41,7 @@ My name is Raditya Anugrah Sagitaris! You can call me Adit, Adid, Radit, Anugrah
 
 <a href="https://www.w3schools.com/js/"><img src="https://skillicons.dev/icons?i=js" alt="js" height="100" title="JS documentation"></a>
 <a href="https://docs.python.org/3/"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" height="100" title="Python documentation"></a>
-<a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="https://techstack-generator.vercel.app/flutter-icon.svg" alt="react" height="100" title="React documentation"></a>
+<a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" height="100" title="React documentation"></a>
 <a href="https://laravel.com/docs/11.x/readme"><img src="https://skillicons.dev/icons?i=laravel" alt="laravel" height="100" title="Laravel documentation"></a>
 <a href="https://www.php.net/manual/en/index.php"><img src="https://skillicons.dev/icons?i=php" alt="php" height="100" title="Php documentation"></a>
 <a href="https://v2.tailwindcss.com/docs"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" height="100" title="Tailwind documentation"></a>
