@@ -191,6 +191,6 @@ Here are some of the projects I've worked on! From graphic design and web develo
 <a href="https://www.instagram.com/adit.sketch?igsh=MWhrMmk4NGNxN2s2Zg=="><img src="https://skillicons.dev/icons?i=instagram" alt="Whatsapp" height="55" title="Instagram Profile"></a>
 <a href="https://x.com/aditmyo"><img src="https://skillicons.dev/icons?i=twitter" alt="x" height="55" title="X profile"></a>
 <a href="https://x.com/aditmyo"><img src="https://skillicons.dev/icons?i=discord" alt="discord" height="55" title="Discord profile"></a>
-<a href="https://wa.me/085248509691"><img src="./assets/walogo.jpg" alt="Whatsapp" height="55" title="Whatsapp"></a>
+<a href="https://wa.me/085248509691"><img src="./assets/walogo.png" alt="Whatsapp" height="55" title="Whatsapp"></a>
 
 </div>
