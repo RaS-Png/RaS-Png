@@ -35,6 +35,7 @@ My name is Raditya Anugrah Sagitaris! You can call me Adit, Adid, Radit, Anugrah
 <a href="https://www.w3schools.com/js/"><img src="https://skillicons.dev/icons?i=js" alt="js" height="100" title="JS documentation"></a>
 <a href="https://www.digidop.fr/en/figma/documentation"><img src="https://skillicons.dev/icons?i=figma" alt="figma" height="100" title="Figma documentation"></a>
 <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/"><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" height="100" title="Bootstrap documentation"></a>
+<a href="https://laravel.com/docs/11.x/readme"><img src="https://skillicons.dev/icons?i=laravel" alt="laravel" height="100" title="Laravel documentation"></a>
 
 # 📔 𝘊𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 #
 
