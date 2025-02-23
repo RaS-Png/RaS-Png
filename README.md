@@ -11,12 +11,12 @@
   
 # 🍞 Adidmyo! #
 
-`Newbie Front End Developer`
+`Front End Developer`
 `Re : Zero Lover`
 `A fan of Japanese Culture`
 <br/>
 `Anime Illustrator`
-`Experienced Designer`
+`Experienced UI/UX Designer`
 `Road to Japan`
 </div>
 
